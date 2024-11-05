@@ -1,0 +1,21 @@
+.img{
+    position: relative;
+    text-align: center;
+}
+
+.kolo_1{
+    width: 150px;
+    height: 150px;
+    background-color: #c8c10d;
+    border-radius: 50%;
+    position: absolute;
+
+}
+
+.kolo_2{
+    width: 150px;
+    height: 150px;
+    background-color: #cb3362;
+    border-radius: 50%;
+    position: absolute;
+}
