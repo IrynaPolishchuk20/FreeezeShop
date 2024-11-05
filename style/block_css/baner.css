@@ -27,7 +27,25 @@
     background-color: #cb3362;
     border-radius: 50%;
     position: absolute;
-    left: 710px;
+    left: 705px;
     bottom: 90px;
     filter: opacity(0.9);
+}
+
+.text1{
+    position: absolute;
+    font-family: LatoR;
+    color: white;
+    left: 730px;
+    bottom: 160px;
+    font-size: 30px;
+}
+
+.text2{
+    position: absolute;
+    font-family: LatoR;
+    color: white;
+    left: 726px;
+    bottom: 130px;
+    font-size: 30px;
 }
