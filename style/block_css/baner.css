@@ -1,5 +1,11 @@
-.img{
+.baner{
+    height: 733px;
+    width: 1010px;
+    margin: 0 auto;
     position: relative;
+}
+.img{
+    position: absolute;
     text-align: center;
 }
 
@@ -9,7 +15,10 @@
     background-color: #c8c10d;
     border-radius: 50%;
     position: absolute;
-
+    left: 690px;
+    bottom: 80px;
+   
+    
 }
 
 .kolo_2{
@@ -18,4 +27,7 @@
     background-color: #cb3362;
     border-radius: 50%;
     position: absolute;
+    left: 710px;
+    bottom: 90px;
+    filter: opacity(0.9);
 }
