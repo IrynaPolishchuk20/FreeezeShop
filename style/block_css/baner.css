@@ -3,11 +3,12 @@
     width: 1010px;
     margin: 0 auto;
     position: relative;
-}
+    }
+
 .img{
     position: absolute;
     text-align: center;
-}
+    }
 
 .kolo_1{
     width: 150px;
@@ -16,10 +17,8 @@
     border-radius: 50%;
     position: absolute;
     left: 690px;
-    bottom: 80px;
-   
-    
-}
+    bottom: 80px; 
+    }
 
 .kolo_2{
     width: 150px;
@@ -30,7 +29,7 @@
     left: 705px;
     bottom: 90px;
     filter: opacity(0.9);
-}
+    }
 
 .text1{
     position: absolute;
@@ -38,9 +37,9 @@
     color: white;
     left: 720px;
     bottom: 160px;
-    font-size: 30px;
+    font-size: 25px;
     text-transform: uppercase;
-}
+    }
 
 .text2{
     position: absolute;
@@ -48,6 +47,6 @@
     color: white;
     left: 716px;
     bottom: 130px;
-    font-size: 30px;
+    font-size: 25px;
     text-transform: uppercase;
-}
+    }

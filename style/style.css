@@ -1,6 +1,12 @@
 @import './fonds.css';
 @import './block_css/header.css';
 @import './block_css/baner.css';
+@import './block_css/advertising.css';
+@import './block_css/icons.css';
+@import './block_css/footer.css';
+
+
+
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
     margin: 0;

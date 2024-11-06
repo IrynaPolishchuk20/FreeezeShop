@@ -1,0 +1,21 @@
+.footer{
+    background: #cb3362;
+    padding: 40px;
+}
+
+.footer li{
+    display: inline-block;
+    margin: 0 15px;
+}
+
+.footer ul{
+    text-align: center;
+}
+
+.footer p{
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-family: LatoR;
+}

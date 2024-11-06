@@ -1,0 +1,29 @@
+.advertising{
+    background-color: #eae7e8;
+    height: 260px;
+}
+
+.advertising .p1{
+    font-family: LatoB;
+    font-size: 18px;
+    color: #7a6666;
+    padding-top: 50px;
+}
+.advertising .p2{
+    font-family:  MagraB;
+    font-size: 14px;
+    color: #7a6666;
+    padding-top: 35px;
+}
+
+.advertising h4{
+    font-family: LatoR;
+    font-size: 30px;
+    color: #cb3362;
+}
+
+.advertising img{
+    float: right;
+    padding-top: 80px;
+}
+
