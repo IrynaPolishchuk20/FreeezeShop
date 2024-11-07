@@ -1,8 +1,8 @@
-.baner{
+.pr-baner{
     height: 920px;
 }
 
-.baner h4{
+.pr-baner h4{
     color: #cb3362;
     font-family: LatoR;
     padding: 15px;
@@ -10,7 +10,7 @@
     text-align: left;
 }
 
-.baner p{
+.pr-baner p{
     color: rgb(111, 107, 107);
     font-size: 15px;
     font-family: LatoR;
@@ -19,20 +19,20 @@
 
 
 
-.baner li{
+.pr-baner li{
     display: inline-block;
     width: 24.5%;
     text-align: center;
 }
 
-.baner a{
+.pr-baner a{
     color: #cb3362;
     text-decoration: none;
     line-height: 30px;
     font-family: LatoR;
 
 }
-.baner img{
+.pr-baner img{
     height: 230px;
     width: 245px;
 }
