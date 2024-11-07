@@ -1,5 +1,8 @@
 .aboutImg{
-    background: #eae7e8;
-   
+    background: #eae7e8;  
 }
 
+.aboutImg img{
+    width: 1000px;
+    height: 220px;
+}

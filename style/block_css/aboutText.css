@@ -1,0 +1,39 @@
+.aboutText h4{
+    color: #cb3362;
+    font-family: LatoR;
+    padding: 15px;
+    font-size: 18px;
+}
+.aboutText p{
+    color: rgb(111, 107, 107);
+    font-size: 15px;
+    font-family: LatoR;
+}
+
+
+
+
+
+.t1{
+    background: #eae7e8;
+    height: 465px;
+    width: 250px;
+    text-align: center;
+    font-family: LatoR;
+    float: left;
+    padding: 15px;
+    margin: 15px;
+}
+
+.t2{
+    height: 515px;
+    font-family: LatoR;
+    padding: 15px;
+}
+
+
+
+.aboutText span{
+    text-decoration: underline;
+}
+
