@@ -1,3 +1,7 @@
+.baner{
+    height: 920px;
+}
+
 .baner h4{
     color: #cb3362;
     font-family: LatoR;
@@ -26,8 +30,13 @@
     text-decoration: none;
     line-height: 30px;
     font-family: LatoR;
-    cursor: pointer;
+
 }
+.baner img{
+    height: 230px;
+    width: 245px;
+}
+
 
 
 
