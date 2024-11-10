@@ -11,8 +11,9 @@
 @import './block_css/pr_baner.css';
 @import './block_css/blog.css';
 @import './block_css/bg-blog.css';
-@import'./block_css/post.css';
-@import'./block_css/s_post.css';
+@import './block_css/post.css';
+@import './block_css/s_post.css';
+
 
 ul,ol,h1,h2,h3,h4,h5,h6,p,body{
     margin: 0;

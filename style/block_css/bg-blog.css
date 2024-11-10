@@ -22,7 +22,7 @@
     color: rgb(111, 107, 107);
     font-size: 15px;
     font-family: LatoR;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .bg-bl1{
@@ -33,26 +33,22 @@
 }
 
 .bg-blog1{
-    width: 630px;
+    width: 550px;
     height: 600px;
     font-family: LatoR;
-    padding: 15px;    
-  
-   
+    padding: 15px; 
+    float: left;   
 }
 
 .bg-blog2{
     background: #eae7e8;
-    height: 600px;
+    height: 650px;
     width: 250px;
     text-align: center;
     font-family: LatoR;
     padding: 15px;
     margin: 15px;
-   
-
-    
-
+    float: left;
 }
 
 
@@ -62,22 +58,22 @@
     float: left;
 }
 
-.blog hr{
+.bg-blog hr{
     clear: both;
     background-color: #cbb5bc;
     width: 500px;
     height: 3px;
-    margin: 40px;
+    margin: 15px;
     border: none;
 }
-.blog .button{
+.bg-blog .button{
     text-align: center;
     margin-top: 40px;
 }
-.bg-blog .button button, .button2 button{
+.bg-blog1 .button button, .button2 button{
     text-align: center;
     text-transform: uppercase;
-    width: 170px;
+    width: 150px;
     height: 50px;
     background: white;
     color: #7a6666;
@@ -86,24 +82,26 @@
     font-weight: bold;
     border: 3px solid #cbb5bc;
     cursor: pointer;
+
 }
 
-.blog .button2{
+.bg-blog .button2{
     clear: both;
     margin: 100px 0px 100px 200px;
+    
+
 }
 
-.blog .bg-blog2 .button button{
+.bg-blog2 .button button{
     text-align: center;
     text-transform: uppercase;
-    width: 200px;
+    width: 150px;
     height: 50px;
     background: #eae7e8;
     color: #7a6666;
     font-family: LatoR;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     border: 3px solid #cbb5bc;
-    margin-top: 30px;
     cursor: pointer;
 }
