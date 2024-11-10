@@ -52,7 +52,8 @@
     font-family: LatoR;
     padding: 15px;
     margin: 15px;
-    float: left;
+    float: right;
+    
     
 
 }
@@ -64,7 +65,7 @@
     float: left;
 }
 
-.bg-blog1 button{
+.bg-blog button{
     margin: 0 auto;
     color: grey;
 

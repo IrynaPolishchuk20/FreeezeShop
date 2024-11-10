@@ -1,0 +1,12 @@
+.post{
+    background: #c8c10d;
+    padding: 35px 0;
+    clear: both;
+}
+
+.post p{
+    text-align: center;
+    color: white;
+    font-family: LatoR;
+    font-size: 16px;
+}
