@@ -2,13 +2,13 @@
     color: #cb3362;
     font-family: LatoR;
     padding: 10px;
-    font-size: 18px;
+    font-size: 23px;
 }
 
 .bg-blog h3{
     color: #cb3362;
     font-family: LatoR;
-    font-size: 20px;
+    font-size: 28px;
 }
 
 .bg-blog h6{
@@ -22,17 +22,7 @@
     color: rgb(111, 107, 107);
     font-size: 15px;
     font-family: LatoR;
-}
-
-.bg-blog1{
-    width: 630px;
-    height: 600px;
-    font-family: LatoR;
-    padding: 15px;    
-    float: left;
-   
-    
-
+    font-size: 18px;
 }
 
 .bg-bl1{
@@ -42,8 +32,14 @@
     float: right;
 }
 
-
-
+.bg-blog1{
+    width: 630px;
+    height: 600px;
+    font-family: LatoR;
+    padding: 15px;    
+  
+   
+}
 
 .bg-blog2{
     background: #eae7e8;
@@ -53,14 +49,16 @@
     font-family: LatoR;
     padding: 15px;
     margin: 15px;
-    float: left;
+   
+
+    
 
 }
 
 
 .bg-blog1 img{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     float: left;
 }
 
@@ -76,15 +74,15 @@
     text-align: center;
     margin-top: 40px;
 }
-.blog .button button, .button2 button{
+.bg-blog .button button, .button2 button{
     text-align: center;
     text-transform: uppercase;
-    width: 200px;
+    width: 170px;
     height: 50px;
     background: white;
     color: #7a6666;
     font-family: LatoR;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     border: 3px solid #cbb5bc;
     cursor: pointer;
@@ -109,5 +107,3 @@
     margin-top: 30px;
     cursor: pointer;
 }
-
-
