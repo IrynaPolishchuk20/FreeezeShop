@@ -1,50 +1,40 @@
-.bg-blog h4{
+.single h4{
     color: #cb3362;
     font-family: LatoR;
     padding: 10px;
     font-size: 18px;
 }
 
-.bg-blog h3{
+.single h3{
     color: #cb3362;
     font-family: LatoR;
     font-size: 20px;
 }
 
-.bg-blog h6{
+.single h6{
     color: rgb(111, 107, 107);
     font-family: LatoR;
     
     font-size: 10px;
 }
 
-.bg-blog p{
+.single p{
     color: rgb(111, 107, 107);
     font-size: 15px;
     font-family: LatoR;
 }
 
-.bg-blog1{
+.single_1{
     width: 650px;
     height: 600px;
     font-family: LatoR;
-    padding: 15px;    
-    
-    
-
-}
-
-.bg-bl1{
-    float: right;
-}
-.bg-bl2{
-    float: right;
+    padding: 15px;
+        
+   
 }
 
 
-
-
-.bg-blog2{
+.single_2{
     background: #eae7e8;
     height: 600px;
     width: 250px;
@@ -52,20 +42,6 @@
     font-family: LatoR;
     padding: 15px;
     margin: 15px;
-    float: right;
+    
 
 }
-
-
-.bg-blog1 img{
-    height: 200px;
-    width: 200px;
-    float: left;
-}
-
-.bg-blog button{
-    margin: 0 auto;
-    color: grey;
-
-}
-
